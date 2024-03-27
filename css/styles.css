@@ -1,11 +1,21 @@
-h1 {
-    color:darkblue;
+p:hover {
+    color:pink;
 }
 
+p#welcome::first-letter {
+    font-size: larger;
+    color: blue;
+}
+
+.secondary {
+    color: red;
+}
+
+/* 
 #second {
     color: blueviolet;
 }
 
 #third {
     color: yellowgreen;
-}
+} */
