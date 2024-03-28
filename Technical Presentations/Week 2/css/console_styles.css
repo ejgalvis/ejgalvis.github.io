@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: green;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "VT323", monospace;
     margin:0;
     padding: 20px;
 }
@@ -12,5 +12,5 @@ p {
 }
 
 p#spooky_threat {
-    color: red;
+    color: lightblue;
 }
