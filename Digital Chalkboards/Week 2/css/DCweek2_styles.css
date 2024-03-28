@@ -1,12 +1,16 @@
-p:hover {
-    color:pink;
+h1 {
+    color: #880000;
 }
 
-p#welcome::first-letter {
-    font-size: larger;
-    color: blue;
+p#first::first-letter {
+    font-size: xx-large;
+    color: yellowgreen;
 }
 
-.secondary {
-    color: red;
+p {
+    color: green;
+}
+
+p.secondary {
+    font-size: small;
 }

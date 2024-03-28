@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    margin:0;
+    padding: 20px;
+}
+
+p {
+    font-weight: bold;
+    color: green;
+}
+
+p#spooky_threat {
+    color: red;
+}
