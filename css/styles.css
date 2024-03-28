@@ -6,3 +6,7 @@ p#welcome::first-letter {
 .secondary {
     color: red;
 }
+
+.error {
+    color: purple
+}
