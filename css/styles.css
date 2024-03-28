@@ -7,6 +7,10 @@ p#welcome::first-letter {
     color: red;
 }
 
+h1.error {
+    font-size: xx-large;
+}
+
 .error {
     color: purple
 }
