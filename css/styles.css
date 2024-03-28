@@ -1,7 +1,3 @@
-p:hover {
-    color:pink;
-}
-
 p#welcome::first-letter {
     font-size: larger;
     color: blue;
@@ -10,12 +6,3 @@ p#welcome::first-letter {
 .secondary {
     color: red;
 }
-
-/* 
-#second {
-    color: blueviolet;
-}
-
-#third {
-    color: yellowgreen;
-} */
