@@ -1,1 +1,0 @@
-# ejgalvis.github.io
