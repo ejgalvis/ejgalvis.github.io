@@ -5,9 +5,133 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Week 3 Digital Chalkboard</title>
     <!-- Bootstrap CSS -->
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>    
+    <!-- Custom CSS to override Bootstrap -->
+    <link href="css/DC3_styles.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
 </head>
 <body>
-<!-- Navbar -->
+    <!-- Creates a Navivation bar -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="../../index.html">Elliot's Github Page</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Navigation links -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-aut mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="DC_3.html">Digital Chalkboard Week 3</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="../../about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="../../contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <table class="table table-striped table-bordered table-hover">
+        <caption>Favorite X-Men</caption>
+        <thead>
+            <tr>
+                <th scope = "col">Name</th>
+                <th scope = "col">Alias</th>
+                <th scope = "col">Sub-team</th>
+                <th scope = "col">Living on Krakoa</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Kurt Wagner</td>
+                <td>Nightcrawler</td>
+                <td>Excalibur</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Molly Hayes</td>
+                <td>Princess Powerful</td>
+                <td>The Runaways</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>Irene Adler</td>
+                <td>Destiny</td>
+                <td>The Brotherhood of Evil Mutants</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Roberto Da Costa</td>
+                <td>Sunspot</td>
+                <td>The New Mutants</td>
+                <td>No</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a id="wiki" href="https://en.wikipedia.org/wiki/JavaScript">
+        Oh also, here's an link to the Wikipedia page for js
+    </a>
+
+    <h4>Most powerful faves (plus bonus)</h4>
+    <ol class="a" id="first">
+        <li class="primary">Destiny</li>
+        <li class="primary">Sunspot</li>
+        <li class="primary">Nightcrawler</li>
+        <li class="primary">Princess Powerful</li>
+        <li class="primary">Angel</li>
+    </ol>
+
+    <h4>Best dressed (plus bonus)</h4>
+    <ol class="a" id="second">
+        <li class="primary">Emma Frost</li>
+        <li class="primary">Sunspot</li>
+        <li class="primary">Nightcrawler</li>
+        <li class="primary">Destiny</li>
+        <li class="primary">Princess Powerful</li>
+    </ol>
+
+    <h4>Other MVPs</h4>
+    <ul class="b" id="third">
+        <li class="primary">Magneto (Krakoa)</li>
+        <li class="primary">Storm</li>
+        <li class="primary">Kobak Never-Held</li>
+        <li class="primary">Magik</li>
+        <li class="primary">Dazzler</li>        
+    </ul>
+
+    <h4>Could do without them</h4>
+    <ul class="b" id="fourth">
+        <li class="primary">Mastermind</li>
+        <li class="primary">The Fenris Twins</li>
+        <li class="primary">Laocoon</li>
+        <li class="primary">Sabretooth</li>
+        <li class="primary">Wolfsbane</li>        
+    </ul>
+
+    <ol>
+        <li>Cars
+            <ul>
+                <li>Honda</li>
+                <li>Toyota</li>
+                <li>Subaru</li>
+            </ul>
+        </li>
+        <li>Baseball teams
+            <ul>
+                <li><a href="https://www.mlb.com/cubs">Chicago Cubs</a></li>
+                <li><a href="https://www.thehanshintigers.com/">Hanshin Tigers</a></li>
+                <li><a href="https://www.kccougars.com/">Kane County Cougars</a></li>
+            </ul>
+        </li>
+    </ol>
+
 </body>
 </html>
