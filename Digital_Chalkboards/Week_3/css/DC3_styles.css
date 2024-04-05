@@ -25,22 +25,22 @@ a#wiki:hover{
 }
 
 li.primary::first-letter {
-    font-size: xx-large;
-    font: bold;
+    font-size: larger;
+    font: bolder;
     color: rgb(205, 50, 122);
 }
 
-ol#first {
+ol.a {
     list-style-type: lower-roman;
 }
 
-ol#second {list-style-type: lower-alpha;
+ol.b {list-style-type: lower-alpha;
 }
 
-ul#third{
+ul.c{
     list-style-type: square;
 }
 
-ul#fourth{
+ul.d{
     list-style-type: "$";
 }
