@@ -1,9 +1,18 @@
 .col-sm{
-    background-color: rgb(98, 209, 203);
+    background-color: rgb(179, 245, 243);
     padding: 20px;
+}
+
+a.navbar-brand {
+    color: rgb(221, 201, 88);
+}
+
+a.nav-link{
+    color: black;
 }
 
 .navbar {
  font-weight: bold;
  letter-spacing: .5px;
+ background-color: blueviolet;
  }

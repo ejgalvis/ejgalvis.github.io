@@ -18,7 +18,7 @@ function changeButtonTextAndClass() {
     console.log("Before change:", button.textContent, button.className);
 
     button.textContent = "Done";
-    button.className = "btn btn-sucess";
+    button.className = "btn btn-success";
 
     console.log("After change:", button.textContent, button.className);
 }
