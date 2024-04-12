@@ -8,4 +8,23 @@ h1 {
 
 h2 {
   color: #D6D6CE;
-}/*# sourceMappingURL=week3_TP_styles.css.map */
+}
+
+.uniform-height-img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.carousel {
+  margin-bottom: 60px;
+}
+
+.carousel-caption {
+  color: gold;
+  background-color: black;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}

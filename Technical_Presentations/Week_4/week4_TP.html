@@ -12,18 +12,128 @@
     <link href="/css/navbar.css" rel="stylesheet">
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg navbar-dark container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mr-auto">
+                <li class="navbar-brand">
+                    <a class="nav-link" href="/index.html">Elliot's GitHub Page</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/about.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/contact.html">Contact</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown_01" role="button" data-bs-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    Digital Chalkboard
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="../../Digital_Chalkboards/Week_2/DC_2.html">Week 02</a>
+                        <a class="dropdown-item" href="../../Digital_Chalkboards/Week_3/DC_3.html">Week 03</a>
+                        <a class="dropdown-item" href="../../Digital_Chalkboards/Week_4/DC_4.html">Week 04</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown_02" role="button" data-bs-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    Technical
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="../Week_2/Console.html">Week 02</a>
+                        <a class="dropdown-item" href="../Week_3/week3_TP.html">Week 03</a>
+                        <a class="dropdown-item" href="#">Week 04</a>
+                    </div>
+                </li>
+            </ul>
+      </div>
+        <script>
+            var pathname = window.location.pathname;
+            var cleanPath = pathname.substring(pathname.lastIndexOf('/') + 1);
+            $('[href*="' + cleanPath + '"]').addClass('active');
+        </script>
+    </nav>
+
+    <div class="container-fluid p-5 bg-primary text-white text-center">
+        <h1 class="display-2">Technical Presentation Week 4</h1>
+        <h1 class="display-4">Sad Created Creatures</h1>
+    </div>
     <div class="container">
         <div class="row">
-            <div class="col">
-
+            <div class="col-sm">
+                <img src="images/SatanProfile.jpg" alt="Milton's Satan" class="img-fluid uniform-height-img">
+                <p><strong><del>Lucifer Morningstar</del> Satan</strong> from <em>Paradise Lost</em> written by <u>John Milton</u></p>
+                <blockquote class="blockquote">
+                    Farewell happy fields, 
+                    Where joy for ever dwells! Hail, horrors! hail, 
+                    Infernal world! and thou, profoundest Hell, 
+                    Receive thy new possessor--one who brings 
+                    A mind not to be changed by place or time. 
+                    The mind is its own place, and in itself 
+                    Can make a Heaven of Hell, a Hell of Heaven. 
+                </blockquote>
             </div>
-            <div class="col">
-                
+            <div class="col-sm">
+                <img src="images/Frankenstein's_Creature.jpg" alt="Woolstonecraft's Creature" class="img-fluid uniform-height-img">
+                <p><strong>Frankenstein's <del>Monster</del> Creature</strong> from <em>Frankenstein</em>, written by <u>Mary Woolstonecraft</u></p>
+                <blockquote class="blockquote">
+                    God, in pity, made man beautiful and alluring, after his own image; but my form is a filthy type of yours, more horrid even from the very resemblance. Satan had his companions, fellow devils, to admire and encourage him, but I am solitary and abhorred.
+                </blockquote>
             </div>
-            <div class="col">
-                
+            <div class="col-sm">
+                <img src="images/Rocky_Horror.jpg" alt="Sharman's Rocky" class="img-fluid uniform-height-img">
+                <p><strong>Rocky</strong> from <em>The Rocky Horror Picture Show</em>, written and directed by <u>Jim Sharman</u></p>
+                <blockquote class="blockquote">
+                    Oh woe is me / My life is a misery / Oh can't you see / I'm at the start of a pretty big downer.
+                </blockquote>
             </div>
         </div>
+
+
+        <div class="row">
+            <h3 class="text-center">The Creators</h3>
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="images/God with His Son.jpg" alt="God" class="img-fluid uniform-height-img">
+                        <div class="carousel-caption">
+                            <h3>God</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/VictorFrankenstein.jpg" alt="Victor Frankenstein" class="img-fluid uniform-height-img">
+                        <div class="carousel-caption">
+                            <h3>Victor Frankenstein</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/FrankNFurter.jpg" alt="Dr. FrankNFurter" class="img-fluid uniform-height-img">
+                        <div class="carousel-caption">
+                            <h3>Dr. FrankNFurter</h3>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                      </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 </body>
 </html>
