@@ -1,0 +1,52 @@
+<link href="css/navbar.css" rel="stylesheet">
+
+<nav class="navbar navbar-expand-lg navbar-dark container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mr-auto">
+            <li class="navbar-brand">
+                <a class="nav-link" href="index.html">Elliot's GitHub Page</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown_01" role="button" data-bs-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                Digital Chalkboard
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="Digital_Chalkboards/Week_2/DC_2.html">Week 02</a>
+                    <a class="dropdown-item" href="Digital_Chalkboards/Week_3/DC_3.html">Week 03</a>
+                    <a class="dropdown-item" href="Digital_Chalkboards/Week_4/DC_4.html">Week 04</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown_02" role="button" data-bs-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                Technical
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="Technical_Presentations/Week_2/Console.html">Week 02</a>
+                    <a class="dropdown-item" href="Technical_Presentations/Week_3/week3_TP.html">Week 03</a>
+                    <a class="dropdown-item" href="Technical_Presentations/Week_4/week4_TP.html">Week 04</a>
+                </div>
+            </li>
+        </ul>
+  </div>
+    <script>
+        var pathname = window.location.pathname;
+        var cleanPath = pathname.substring(pathname.lastIndexOf('/') + 1);
+        $('[href*="' + cleanPath + '"]').addClass('active');
+      </script>
+</nav>
