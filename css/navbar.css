@@ -1,6 +1,7 @@
 .navbar {
-    background-color: #333;
-    font-family: Arial;
+    font-weight: bold;
+    letter-spacing: .5px;
+    background-color: rgb(72, 22, 118);
 }
 
 .navbar a {
@@ -53,4 +54,8 @@
 
 .dropdown:hover .dropdown-content{
     display: block;
+}
+
+a.nav-link{
+    color: black;
 }
