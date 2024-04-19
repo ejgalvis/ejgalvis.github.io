@@ -1,0 +1,9 @@
+div {
+    background-color: rgb(179, 245, 243);
+    padding: 20px;
+}
+
+button.btn {
+    background-color: blueviolet;
+    color:rgb(179, 245, 243);
+}

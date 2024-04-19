@@ -14,3 +14,7 @@ h1.error {
 .error {
     color: purple
 }
+
+p {
+    padding: 20px;
+}
