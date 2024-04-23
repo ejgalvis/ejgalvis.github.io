@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function playAnimal(instrumentSound) {
   var sound = new Howl({
-    src: [`audio/${instrumentSound}.mp3`, `audio/${instrumentSound}.wbm`],
+    src: `audio/${instrumentSound}.mp3`,
     sprite: {
       Drum: [0, 3000],
       Guitar: [0, 3000],
