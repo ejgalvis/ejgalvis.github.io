@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     for (const property in instrumentObject){
         document.getElementById(property).addEventListener('click', () => {
-          playAnimal(instrumentObject[property]);
+          playInstrument(instrumentObject[property]);
         })
       }
 
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-function playAnimal(instrumentSound) {
+function playInstrument(instrumentSound) {
   var sound = new Howl({
     src: `audio/${instrumentSound}.mp3`,
     sprite: {
