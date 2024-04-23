@@ -29,10 +29,10 @@ function playInstrument(instrumentSound) {
   var sound = new Howl({
     src: [`https://ejgalvis.github.io/Technical_Presentations/Week_5/audio/${instrumentSound}.mp3`, `https://ejgalvis.github.io/Technical_Presentations/Week_5/audio/audio/${instrumentSound}.webm`],
     sprite: {
-      drum: [0, 3000],
-      guitar: [0, 3000],
-      organ: [0, 3000],
-      human: [0, 3000],
+      Drum: [0, 3000],
+      Guitar: [0, 3000],
+      Organ: [0, 3000],
+      Human: [0, 3000],
     }
   });
   sound.play(instrumentSound);
