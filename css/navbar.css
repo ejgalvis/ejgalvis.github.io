@@ -59,3 +59,7 @@
 a.nav-link{
     color: black;
 }
+
+#navbarNav {
+    background-color: rgb(72, 22, 118);
+}
