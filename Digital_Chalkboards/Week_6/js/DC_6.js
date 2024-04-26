@@ -22,11 +22,11 @@ function getAndSort() {
       };
 
     // Sort the objects alphabetically (by keys)
-    const responseKeys = Object.keys(responses).sort();
+    const responseValues = Object.values(responses).sort();
 
-    for (const key of responseKeys) {
+    for (const value of responseValues) {
         let newDiv = document.createElement("h4");
-        newDiv.innerHTML = `Your ${key.toLowerCase()} is ${responses[key]}`
+        newDiv.innerHTML = `Sorted alphabetically by each object, your ${Object.keys(responses).find(key => responses[key] === value).toLowerCase()} is ${value}`
         document.getElementById('outputArray').appendChild(newDiv)
       }
 }
