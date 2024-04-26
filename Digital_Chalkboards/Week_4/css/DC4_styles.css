@@ -1,3 +1,8 @@
+h1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
 .col-sm{
     background-color: rgb(179, 245, 243);
     padding: 20px;

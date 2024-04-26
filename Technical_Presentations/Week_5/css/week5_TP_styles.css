@@ -9,6 +9,7 @@ h2 {
 
 #jumbotron {
   background-color: blueviolet;
+  color: goldenrod;
   height: 20vh;
   position: relative;
 }

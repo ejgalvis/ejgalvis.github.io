@@ -2,8 +2,13 @@ body {
   background-color: #767676;
 }
 
+.container-fluid.p-5 {
+ background-color: blueviolet;
+}
+
 h1 {
-  color: #800000;
+  background-color: blueviolet;
+  color: goldenrod;
 }
 
 h2 {

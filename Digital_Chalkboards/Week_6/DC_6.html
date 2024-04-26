@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Chalkboard Week 6</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>    
+    <!-- Custom CSS to override Bootstrap -->
+    <link href="css/DC6_styles.css" rel="stylesheet">
+    <!-- Reference JS for Navbar -->
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <!-- Load custom JS files for functions -->
+    <script src="js/DC_6.js"></script>
+</head>
+<body>
+    <!--Nav is loaded here via jQuery-->
+    <div id="nav-placeholder"></div>
+
+    <h1>Digital Chalkboard - Week 6</h1>
+
+    <div class="row mt-5">
+        <div class="col">
+            <h4>Can we make JS code to alphabetically sort a prepared list of fruits?</h4>
+            <button class="btn btn-primary" onclick="lastItem(['Watermelon', 'Apple', 'Orange', 'Kiwi'])">
+            Prepared List Results
+            </button>
+            <h4 id ="fruit"></h4>
+            <div id="output1" class="mt-3"></div>
+        </div>
+    </div>
+
+    <!--Input and sort-->
+    <div class="row mt-5">
+        <div class="col">
+            <h4>Input your own objects and categories and sort with getAndSort() function</h4>
+            <button id="sortButton" class="btn btn-primary" onclick="getAndSort()">Input Items</button>
+            <div id="outputArray" class="mt-3"></div>
+        </div>
+    </div>
+
+    <!-- Reference JS file for Navbar -->
+    <script src="../../js/wkly_nav.js"></script>    
+</body>
+</html>

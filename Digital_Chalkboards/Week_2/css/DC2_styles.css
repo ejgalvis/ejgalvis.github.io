@@ -1,5 +1,7 @@
 h1 {
-    color: #880000;
+    margin-top: 20px;
+    text-align: center;
+    color: red
 }
 
 p#first::first-letter {
