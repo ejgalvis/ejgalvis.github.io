@@ -1,0 +1,24 @@
+body {
+  padding-bottom: 100px;
+  background-color: #767676;
+}
+
+h1 {
+  color: goldenrod;
+  text-align: center;
+  height: 70px;
+}
+
+.container-fluid {
+  background-color: blueviolet;
+  position: relative;
+}
+
+.chart-container {
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  background-color: navy;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
