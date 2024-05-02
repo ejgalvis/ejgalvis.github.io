@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+$uchicago-maroon: #800000;
+$uchicago-light-gray: #D6D6CE;
+$uchicago-dark-gray: #767676;
+$black: #000000;
+$white: #FFFFFF;
+$font-stack: "EB Garamond", serif;
+
+body {text-align: center; background-color: $uchicago-light-gray;
+    color: $uchicago-maroon; font-family: $font-stack; padding-bottom: 200px;}
+
+    nav {background-color: $uchicago-maroon;
+    color: $white;}
+
+    .dropdown-menu {background-color: $uchicago-maroon;}
+
+    .dropdown-item {color: $white;}
+
+    .navbar-brand {color: $white;}
+
+    .nav-link {color: $white;}
+
+    .footer {position: sticky; bottom: 0; width:100%; margin-top: 50px; background-color: $uchicago-dark-gray;
+    color: $white;}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 7.2 Technical Presentation</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>  
+    <!-- Reference JS for Navbar -->
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <!-- Custom CSS to override Bootstrap -->
+    <link rel="stylesheet" href="css/week7_TP_styles.css">
+</head>
+<body>
+    <!--Nav is loaded here via jQuery-->
+    <div id="nav-placeholder"></div>
+
+    <h1>OCHRE API Example 2</h1>
+
+    <!-- Output from JS function loads here -->
+    <div class="container mt-3" id="ochreContainer" data-uuid = '50f7b9a5-329a-49ab-85e2-f8fb4ee6e867'>
+        <h1 id="title"></h1>
+        <div class="image" id="preview"></div>
+    </div>
+
+    <div class="container mt-4 mb-4">
+        <div class="row">
+          <div class="col text-center">
+            <a href="week7_TP_1.html" class="btn btn-secondary" 
+            role="button" aria-disabled="true">The First OCHRE database item</a>
+          </div>
+        </div>
+    </div>
+
+    <div class ="footer">
+        <footer>
+          <p>DIGS 30005: Data Publication for the Humanities</p>
+        </footer>
+    </div>
+
+    <!--Load the nav and other referenced JS files-->
+    <script src="../../js/wkly_nav.js"></script>
+    <script src="js/TP7_js.js"></script>
+</body>
+</html>
