@@ -9,21 +9,21 @@ button.btn {
 }
 
 h1 {
-    margin-top: 20px;
+    padding: 20px;
     text-align: center;
 }
 
 h4 {
-    margin-top: 10px;
+    padding-top: 10px;
     font-size: larger;
 }
 
 #displayArea ul{
     list-style-type: none;
-    padding: 0;
+    padding: 20px;
 }
 
-.row {
+.container-fluid .row {
     background-color: rgb(179, 245, 243);
     margin: 20px;
 }

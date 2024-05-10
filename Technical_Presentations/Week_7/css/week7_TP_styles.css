@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
-body {
+h1 {
+  padding: 20px;
+}
+
+.content-fluid {
   text-align: center;
   background-color: #D6D6CE;
   color: #800000;
@@ -82,15 +86,6 @@ a.nav-link{
 
 #navbarNav {
   background-color: #800000;
-  color: #FFFFFF;
-}
-
-.footer {
-  position: sticky;
-  bottom: 0;
-  width: 100%;
-  margin-top: 50px;
-  background-color: #767676;
   color: #FFFFFF;
 }
 

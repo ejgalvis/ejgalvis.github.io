@@ -1,11 +1,13 @@
-body {
+.container-content {
   background-color: #767676;
+  padding-left: 20px;
+  padding-top: 40px;
 }
 
 h1 {
   color: #800000;
 }
 
-h2 {
+.container-content h2 {
   color: #D6D6CE;
 }/*# sourceMappingURL=week3_TP_styles.css.map */

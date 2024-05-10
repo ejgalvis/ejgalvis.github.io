@@ -1,20 +1,26 @@
-p#welcome::first-letter {
-    font-size: larger;
-    color: blue;
-}
-
-.secondary {
-    color: red;
+.error {
+    color: purple;
+    text-align: center;
 }
 
 h1.error {
-    font-size: xx-large;
-}
-
-.error {
-    color: purple
+    font-size: 80px;
 }
 
 p {
     padding: 20px;
+    font-size: 20px;
+}
+
+.container-fluid {
+    text-align: center;
+    padding-top: 20px;
+}
+
+img.center {
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: min-content;
 }

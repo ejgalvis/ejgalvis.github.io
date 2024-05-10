@@ -1,17 +1,18 @@
-body {
-  padding-bottom: 100px;
-  background-color: #767676;
-}
-
 h1 {
   color: goldenrod;
   text-align: center;
   height: 70px;
+  padding-top: 20px;
+}
+
+#banner {
+  padding-bottom: 20px;
 }
 
 .container-fluid {
   background-color: blueviolet;
   position: relative;
+  padding-bottom: 100px;
 }
 
 .chart-container {

@@ -1,20 +1,26 @@
-body {
-  padding-bottom: 100px;
+.container-content {
   background-color: #767676;
 }
 
 h2 {
   color: goldenrod;
+  text-align: center;
 }
 
-#jumbotron {
+.container-fluid#banner {
+  text-align: center;
   background-color: blueviolet;
   color: goldenrod;
-  height: 20vh;
-  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+ } 
+
+#banner h1 {
+  padding: 30px;
 }
 
-.uniform-height-img {
+img.uniform-height-img {
   width: 300px;
   height: 300px;
   object-fit: cover;

@@ -12,7 +12,7 @@
 .navbar a {
     float: left;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     color: blueviolet;
     text-align: center;
     padding: 14px 16px;
@@ -68,4 +68,9 @@ a.nav-link{
 
 #navbarNav {
     background-color: rgb(72, 22, 118);
+}
+
+td p {
+    font-size: 15px;
+    padding: 0;
 }
