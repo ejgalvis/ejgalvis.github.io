@@ -1,0 +1,36 @@
+body 
+{
+  text-align: center;
+  
+}
+
+h1 {
+  padding: 5%;
+  color: goldenrod;
+}
+
+.container-fluid {
+  background-color: blueviolet;
+  position: relative;
+  padding: 10%;
+}
+
+.arrow {
+  border: solid #C3C3E5;
+  width: 15px;
+  height: 15px;
+  border-top: 2px;
+  border-left: 2px;
+  display: inline-block;
+  position: relative;
+  padding: 5%;
+}
+
+.up {
+  transform: rotate(-135deg);
+}
+
+
+.down {
+  transform: rotate(45deg);
+}
