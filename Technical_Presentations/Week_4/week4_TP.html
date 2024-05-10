@@ -10,58 +10,13 @@
     <!-- Custom CSS to override Bootstrap -->
     <link href="css/week4_TP_styles.css" rel="stylesheet">
     <link href="/css/navbar.css" rel="stylesheet">
+    <!-- Reference JS for Navbar -->
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav mr-auto">
-                <li class="navbar-brand">
-                    <a class="nav-link" href="/index.html">Elliot's GitHub Page</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/index.html">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/about.html">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/contact.html">Contact</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown_01" role="button" data-bs-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false">
-                    Digital Chalkboard
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="../../Digital_Chalkboards/Week_2/DC_2.html">Week 02</a>
-                        <a class="dropdown-item" href="../../Digital_Chalkboards/Week_3/DC_3.html">Week 03</a>
-                        <a class="dropdown-item" href="../../Digital_Chalkboards/Week_4/DC_4.html">Week 04</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown_02" role="button" data-bs-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false">
-                    Technical
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="../Week_2/week2_TP.html">Week 02</a>
-                        <a class="dropdown-item" href="../Week_3/week3_TP.html">Week 03</a>
-                        <a class="dropdown-item" href="#">Week 04</a>
-                    </div>
-                </li>
-            </ul>
-      </div>
-        <script>
-            var pathname = window.location.pathname;
-            var cleanPath = pathname.substring(pathname.lastIndexOf('/') + 1);
-            $('[href*="' + cleanPath + '"]').addClass('active');
-        </script>
-    </nav>
+    <div id="nav-placeholder"></div>
+    
+    <div class="content-fluid content-container">
 
     <div class="container-fluid p-5 text-center">
         <h1> Technical Presentation Week 4</h1>
@@ -133,7 +88,12 @@
                 </div>
             </div>
         </div>
-
     </div>
+
+    <!--Footer is loaded here via jQuery-->
+    <div id="foot-placeholder"></div> 
+
+    <!-- Reference JS file for Navbar and Footer-->
+    <script src="../../js/nav_foot.js"></script>
 </body>
 </html>

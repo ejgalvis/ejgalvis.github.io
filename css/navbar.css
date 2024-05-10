@@ -4,6 +4,11 @@
     background-color: rgb(72, 22, 118);
 }
 
+.active {
+    color: white;
+    font-weight: bold;
+}
+
 .navbar a {
     float: left;
     font-family: Arial, Helvetica, sans-serif;

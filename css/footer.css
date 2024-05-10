@@ -1,0 +1,11 @@
+footer {
+    background-color: #767676;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    color:goldenrod
+}
+
+.container-content {
+    min-height: calc(100vh - 150px);
+}
