@@ -207,16 +207,29 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Cultural Analytics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Transmedia storytelling and media theory",
+        "Religious and cultural studies",
+        "Comics and graphic narrative"
       ]
+    },
+    {
+      "name": "Gender and Sexuality Studies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Queer theory",
+        "Queering information systems"
+      ]
+    },
+    {
+      "name": "Prison Education and Advocacy",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Wilderness backpacking and trekking",
+      "icon": "fa-solid fa-tag"
     }
   ]
 }
