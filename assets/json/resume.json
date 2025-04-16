@@ -10,10 +10,18 @@
   },
   "education": [
     {
+      "institution": "Princeton University",
+      "location": "Princeton, NJ",
+      "area": "Classics",
+      "studyType": "B.A.",
+      "endDate": "2021",
+      "courses": ["Certificates in European Cultural Studies, Gender and Sexuality Studies, and Humanistic Studies","Thesis - 'Born or Built: Constructions of Social Difference from Birth and Craft in Greek Creation Myths'", "Graduated magna cum laude and Phi Beta Kappa"]
+    },
+    {
       "institution": "Queens College, CUNY",
       "location": "Queens, NY",
       "area": "Academic Libraries and Digital Humanities",
-      "studyType": "M.L.S.",
+      "studyType": "M.L.S. (candidate)",
       "endDate": "In process"
     },
     {
@@ -23,14 +31,6 @@
       "studyType": "M.A.",
       "endDate": "2024",
       "courses": ["Thesis - 'Queer Encodings: An NLP Study of Challenged Books in the United States'", "Coursework in Python programming; text analysis and Machine Learning; Data management, analysis, and visualization; Web development; and Cultural Analytics. Work with High-Performance Computing (HPC)."]
-    },
-    {
-      "institution": "Princeton University",
-      "location": "Princeton, NJ",
-      "area": "Classics",
-      "studyType": "B.A.",
-      "endDate": "2021",
-      "courses": ["Certificates in European Cultural Studies, Gender and Sexuality Studies, and Humanistic Studies","Thesis - 'Born or Built: Constructions of Social Difference from Birth and Craft in Greek Creation Myths'", "Graduated magna cum laude and Phi Beta Kappa"]
     }
   ],
   "certificates": [
@@ -127,13 +127,28 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Conversational speaker; intermediate reader and writer",
+      "icon": ""
+    },
+    {
+      "language": "Ancient Greek",
+      "fluency": "Advanced reader",
+      "icon": ""
+    },
+    {
+      "language": "Latin",
+      "fluency": "Advanced reader",
+      "icon": ""
+    },
+    {
+      "language": "Thai",
+      "fluency": "Novice speaker",
       "icon": ""
     }
   ],
