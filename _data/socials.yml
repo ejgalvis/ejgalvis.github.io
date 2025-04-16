@@ -20,10 +20,10 @@ github_username: ejgalvis # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: www.linkedin.com/in/elliot-galvis-88bb36179 # your LinkedIn user name
+linkedin_username: elliot-galvis-88bb36179 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: https://orcid.org/0009-0008-5133-7590 # your ORCID ID
+orcid_id: 0009-0008-5133-7590 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
