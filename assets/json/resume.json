@@ -60,8 +60,8 @@
     {
       "name": "Literary Dictionary Project (forthcoming)",
       "position": "Associate Editor; Research Associate and Assistant Lexicographer",
-      "startDate": "2024-08; 2023-06",
-      "endDate": "2025-02; 2023-08",
+      "startDate": "2023",
+      "endDate": "2025",
       "highlights": ["Edited entry quality, spelling, grammar, and formatting consistency for 4,300 headword bilingual scholarly dictionary accompanying a multivolume literary work", 
       "Managed and performed data entry for Microsoft Excel lexicon of headwords including reference numbers, sense definitions, parts of speech, contextual labels, and quotations"]
     },
@@ -75,40 +75,38 @@
       "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
     },
     {
-      "name": "The University of Chicago Library, Preservation",
-      "position": "Mary and Samuel Somit Preservation Metadata Intern",
-      "startDate": "2024-06",
-      "endDate": "2024-07",
-      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
-      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
-      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+      "name": "The University of Chicago Library, Digitization",
+      "position": "Digitization Assistant",
+      "startDate": "2023-09",
+      "endDate": "2024-05",
+      "highlights": ["Handled and digitized texts from the University of Chicago's Special Collections including scanning materials, recording metadata, and performing quality control of digital copies", 
+      "Designed and implemented digitization workflows for use by Special Collections and the Digitization Unit", 
+      "Organized digital files and executed Optical Character Recognition (OCR) processes on digitized materials"]
     },
     {
-      "name": "The University of Chicago Library, Preservation",
-      "position": "Mary and Samuel Somit Preservation Metadata Intern",
-      "startDate": "2024-06",
-      "endDate": "2024-07",
-      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
-      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
-      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+      "name": "The Siam Society and Southeast Asian Cultural Heritage Alliance",
+      "position": "Program Officer",
+      "startDate": "2021-11",
+      "endDate": "2023-01",
+      "highlights": ["Organized a conference held by the Southeast Asian Cultural Heritage Alliance (SEACHA) in January 2023 on Climate Change and Cultural Heritage in Southeast Asia", 
+      "Coordinated members of SEACHA, sponsors, the Siam Society’s member volunteers, youth participants, civic society leaders, and academics from ten ASEAN nations", 
+      "Organized a capacity-building workshop for Southeast Asian youth in August 2022 exploring the intersections of culture and climate action alongside effective multimedia communication"]
     },
     {
-      "name": "The University of Chicago Library, Preservation",
-      "position": "Mary and Samuel Somit Preservation Metadata Intern",
-      "startDate": "2024-06",
-      "endDate": "2024-07",
-      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
-      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
-      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+      "name": "Center for Digital Humanities and Freshman Scholars Institute, Princeton University",
+      "position": "Course Fellow for HUM295: Humanistic Approaches to Media and Data",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "highlights": ["Facilitated small-group discussions with students to foster critical analysis and comprehension of mass and social media from social justice frameworks", 
+      "Mentored and supported first-generation, low-income students entering Princeton"]
     },
     {
-      "name": "The University of Chicago Library, Preservation",
-      "position": "Mary and Samuel Somit Preservation Metadata Intern",
-      "startDate": "2024-06",
-      "endDate": "2024-07",
-      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
-      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
-      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+      "name": "Princeton Ethiopian, Eritrean, and Egyptian Miracles of Mary Project",
+      "position": "Research Assistant to Professor Wendy Belcher",
+      "startDate": "2020-06",
+      "endDate": "2021-08",
+      "highlights": ["Reconfigured the citations from the Latin manuscripts of the original Ge‘ez to be more accessible", 
+      "Catalogued and translated from Latin 25 stories from Ethiopian folklore on the miracles of Mary"]
     }
   ],
   "awards": [
