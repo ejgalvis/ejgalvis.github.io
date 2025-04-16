@@ -508,14 +508,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/www.linkedin.com/in/elliot-galvis-88bb36179", "_blank");
+          window.open("https://www.linkedin.com/in/elliot-galvis-88bb36179", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0008-5133-7590", "_blank");
+          window.open("https://orcid.org/0009-0008-5133-7590", "_blank");
         },
       },{
         id: 'social-rss',
