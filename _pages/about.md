@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Digital Scholarship Specialist at NYU | Library Student at CUNY 
+subtitle: Digital Scholarship Specialist at NYU | MLS Candidate at CUNY
 
 profile:
   align: left
