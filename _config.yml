@@ -192,6 +192,24 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/
+  - _news/
+  - assets/jupyter/
+  - _pages/blog.md
+  - _includes/related_posts.liquid
+  - _includes/latest_posts.liquid
+  - _layouts/archive.liquid
+  - _plugins/external-posts.rb
+  - _includes/news.liquid
+  - _bibliography
+  - _pages/publications.md
+  - _layouts/bib.liquid
+  - _includes/bib_search.liquid
+  - _includes/citation.liquid
+  - _includes/selected_papers.liquid
+  - _plugins/google-scholar-citations.rb
+  - _plugins/hide-custom-bibtex.rb
+  - _plugins/inspirehep-citations.rb
 keep_files:
   - CNAME
   - .nojekyll
