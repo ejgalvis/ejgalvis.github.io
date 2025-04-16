@@ -49,11 +49,66 @@
   ],
   "work": [
     {
-      "name": "NYU Libraries",
+      "name": "New York University Libraries",
       "position": "Adjunct Digital Scholarship Specialist",
       "startDate": "2024-10",
       "endDate": "Present",
-      "highlights": ["Provide reference services and teach original workshops for computational research methods, project design, and tools including publishing platforms, integrated development environments, and linked databases", "Support open access publication of digital scholarship on NYU’s Manifold instance, including authoring LibGuides, teaching workshops, consulting on project design, teaching for course use, delivering targeted trainings, and liaising with the New York City Manifold community", "Conduct outreach for Digital Scholarship Services among subject librarians and faculty at NYU"]
+      "highlights": ["Provide reference services and teach original workshops for computational research methods, project design, and tools including publishing platforms, integrated development environments, and linked databases", 
+      "Support open access publication of digital scholarship on NYU’s Manifold instance, including authoring LibGuides, teaching workshops, consulting on project design, teaching for course use, delivering targeted trainings, and liaising with the New York City Manifold community", 
+      "Conduct outreach for Digital Scholarship Services among subject librarians and faculty at NYU"]
+    },
+    {
+      "name": "Literary Dictionary Project (forthcoming)",
+      "position": "Associate Editor; Research Associate and Assistant Lexicographer",
+      "startDate": "2024-08; 2023-06",
+      "endDate": "2025-02; 2023-08",
+      "highlights": ["Edited entry quality, spelling, grammar, and formatting consistency for 4,300 headword bilingual scholarly dictionary accompanying a multivolume literary work", 
+      "Managed and performed data entry for Microsoft Excel lexicon of headwords including reference numbers, sense definitions, parts of speech, contextual labels, and quotations"]
+    },
+    {
+      "name": "The University of Chicago Library, Preservation",
+      "position": "Mary and Samuel Somit Preservation Metadata Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-07",
+      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
+      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
+      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+    },
+    {
+      "name": "The University of Chicago Library, Preservation",
+      "position": "Mary and Samuel Somit Preservation Metadata Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-07",
+      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
+      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
+      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+    },
+    {
+      "name": "The University of Chicago Library, Preservation",
+      "position": "Mary and Samuel Somit Preservation Metadata Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-07",
+      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
+      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
+      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+    },
+    {
+      "name": "The University of Chicago Library, Preservation",
+      "position": "Mary and Samuel Somit Preservation Metadata Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-07",
+      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
+      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
+      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
+    },
+    {
+      "name": "The University of Chicago Library, Preservation",
+      "position": "Mary and Samuel Somit Preservation Metadata Intern",
+      "startDate": "2024-06",
+      "endDate": "2024-07",
+      "highlights": ["Developed a metadata application profile and designed workflows for metadata enhancement of the Hanna Papanek Photograph Collection for publication on the UChicago Node platforms", 
+      "Evaluated inventories of digitized photographs to prescribe reparative metadata enhancement in collaboration with UChicago’s Metadata Analyst Librarian, Southern Asian Studies Librarian, Preservation Department, Digital Library Development Center, and Digital Strategies and Services Division", 
+      "Established key points of collaboration and workflow integration between the University of Chicago Library and the Online Cultural and Historical Research Environment (OCHRE) graph database system"]
     }
   ],
   "awards": [
