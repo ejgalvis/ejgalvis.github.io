@@ -10,41 +10,50 @@
   },
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Queens College, CUNY",
+      "location": "Queens, NY",
+      "area": "Academic Libraries and Digital Humanities",
+      "studyType": "M.L.S.",
+      "endDate": "In process"
+    },
+    {
+      "institution": "University of Chicago",
+      "location": "Chicago, IL",
+      "area": "Digital Studies of Text and Culture",
+      "studyType": "M.A.",
+      "endDate": "2024",
+      "courses": ["Thesis - 'Queer Encodings: An NLP Study of Challenged Books in the United States'", "Coursework in Python programming; text analysis and Machine Learning; Data management, analysis, and visualization; Web development; and Cultural Analytics. Work with High-Performance Computing (HPC)."]
+    },
+    {
+      "institution": "Princeton University",
+      "location": "Princeton, NJ",
+      "area": "Classics",
+      "studyType": "B.A.",
+      "endDate": "2021",
+      "courses": ["Certificates in European Cultural Studies, Gender and Sexuality Studies, and Humanistic Studies","Thesis - 'Born or Built: Constructions of Social Difference from Birth and Craft in Greek Creation Myths'", "Graduated magna cum laude and Phi Beta Kappa"]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Software, Data, and Library Instructor",
+      "date": "2025",
+      "issuer": "The Carpentries",
+      "icon": "fa-solid fa-chalkboard-user"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Textual Analysis, Web Scraping, and Teaching Data Literacy",
+      "date": "2023",
+      "issuer": "Text Analysis Pedagogy Institute, ITHAKA",
+      "icon": "fa-solid fa-magnifying-glass-chart"
     }
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "NYU Libraries",
+      "position": "Adjunct Digital Scholarship Specialist",
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "highlights": ["Provide reference services and teach original workshops for computational research methods, project design, and tools including publishing platforms, integrated development environments, and linked databases", "Support open access publication of digital scholarship on NYU’s Manifold instance, including authoring LibGuides, teaching workshops, consulting on project design, teaching for course use, delivering targeted trainings, and liaising with the New York City Manifold community", "Conduct outreach for Digital Scholarship Services among subject librarians and faculty at NYU"]
     }
   ],
   "awards": [
