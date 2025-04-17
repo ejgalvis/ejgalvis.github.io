@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Below is information on workshops I've designed and taught as well other teaching work.
-nav: true
+nav: false
 nav_order: 4
 ---
 
