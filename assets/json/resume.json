@@ -28,6 +28,7 @@
       "institution": "University of Chicago",
       "location": "Chicago, IL",
       "area": "Digital Studies of Text and Culture",
+      "url": "https://digitalculture.uchicago.edu/teaching/masters-program/digital-texts/",
       "studyType": "M.A.",
       "endDate": "2024",
       "courses": ["Thesis - 'Queer Encodings: An NLP Study of Challenged Books in the United States'", "Coursework in Python programming; text analysis and Machine Learning; Data management, analysis, and visualization; Web development; and Cultural Analytics. Work with High-Performance Computing (HPC)."]
@@ -38,6 +39,7 @@
       "name": "Software, Data, and Library Instructor",
       "date": "2025",
       "issuer": "The Carpentries",
+      "url": "https://carpentries.org/instructor-training/",
       "icon": "fa-solid fa-chalkboard-user"
     },
     {
@@ -111,25 +113,78 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Dean’s Award for Excellence in Digital Studies of Language, Culture, and History",
+      "date": "2024-06",
+      "awarder": "University of Chicago",
+      "url": "https://humanities.uchicago.edu/articles/2024/05/humanities-division-honors-graduate-students-faculty-and-staff-538th-convocation"
+    },
+    {
+      "title": "Mary and Samuel Somit Preservation Internship",
+      "date": "2024-06",
+      "awarder": "University of Chicago Library",
+      "url": "https://www.lib.uchicago.edu/about/directory/departments/pres/somit/"
+    },
+    {
+      "title": "Graduate Student Research and Travel Grant",
+      "date": "2024-03",
+      "awarder": "University of Chicago’s Center for the Study of Gender and Sexuality ",
+    },
+    {
+      "title": "Digital Studies Scholarship for Graduate Study",
+      "date": "2023-2024",
+      "awarder": "University of Chicago",
+      "url": "https://www.lib.uchicago.edu/about/directory/departments/pres/somit/"
+    },
+    {
+      "title": "Princeton in Asia Fellowship",
+      "date": "2021-2023",
+      "awarder": "Princeton in Asia"
+    },
+    {
+      "title": "Senior Thesis Research Grant",
+      "date": "2021-03",
+      "awarder": "Princeton University's Humanistic Studies Program"
+    },
+    {
+      "title": "Behrman Fellowship",
+      "date": "2019-2021",
+      "awarder": "Behrman Undergraduate Society, Princeton University"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python: proficient",
+        "SQL: proficient",
+        "HTML: proficient",
+        "JavaScript: proficient",
+        "CSS: proficient",
+        "Java: some experience",
+        "R: some experience",
+        "SPARQL: some experience",
+        "OWL: some experience",
+        "SCSS: some experience"
+      ]
+    }, 
+    {
+      "name": "Metadata, Cataloging Authorities, and Knowledge Organization Systems",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MARC",
+        "Dublin Core",
+        "LCSH",
+        "VIAF",
+        "TGN",
+        "LCDGT",
+        "DBpedia",
+        "Wikidata",
+        "The Homosaurus",
+        "MySQL",
+        "SPARQL and RDF triples"
       ]
     }
   ],
