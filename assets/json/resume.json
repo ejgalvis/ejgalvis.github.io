@@ -116,13 +116,15 @@
       "title": "Dean’s Award for Excellence in Digital Studies of Language, Culture, and History",
       "date": "2024-06",
       "awarder": "University of Chicago",
-      "url": "https://humanities.uchicago.edu/articles/2024/05/humanities-division-honors-graduate-students-faculty-and-staff-538th-convocation"
+      "url": "https://humanities.uchicago.edu/articles/2024/05/humanities-division-honors-graduate-students-faculty-and-staff-538th-convocation",
+      "summary":"Awarded in 2024 as the inaugural recipient. Given to a student who has demonstrated exemplary academic excellence, fostered a culture of collaboration, provided significant contributions to their research field, and/or created positive student experiences in the Digital Studies cohort and classroom."
     },
     {
       "title": "Mary and Samuel Somit Preservation Internship",
       "date": "2024-06",
       "awarder": "University of Chicago Library",
-      "url": "https://www.lib.uchicago.edu/about/directory/departments/pres/somit/"
+      "url": "https://www.lib.uchicago.edu/about/directory/departments/pres/somit/",
+      "summary":"The Mary and Samuel Somit Preservation Internship Program at the University of Chicago Library offers an annual six-week internship in the areas of library preservation, conservation, digitization and digital library collections."
     },
     {
       "title": "Graduate Student Research and Travel Grant",
@@ -218,7 +220,7 @@
   "interests": [
     {
       "name": "Cultural Analytics",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-magnifying-glass-chart",
       "keywords": [
         "Transmedia storytelling and media theory",
         "Religious and cultural studies",
@@ -227,19 +229,19 @@
     },
     {
       "name": "Gender and Sexuality Studies",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-transgender-alt",
       "keywords": [
         "Queer theory",
         "Queering information systems"
       ]
     },
     {
-      "name": "Prison Education and Advocacy",
-      "icon": "fa-solid fa-tag"
+      "name": "Prison Education and Anticarceral Advocacy",
+      "icon": "fa-solid fa-people-arrows"
     },
     {
       "name": "Wilderness backpacking and trekking",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-mountain-sun"
     }
   ]
 }
