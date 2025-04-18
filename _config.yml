@@ -28,7 +28,7 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: solarized-light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: gruvbox_light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: onedark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: false
