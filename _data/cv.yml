@@ -11,7 +11,7 @@
   contents:
     - title: MLS
       institution: Queens College CUNY, New York
-      year: In progress
+      year: 2026
       description:
         - Concentrations in Academic Librarianship and Digital Humanities
     - title: MA in Digital Studies of Text and Culture
@@ -32,9 +32,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Metadata Specialist
+      institution: New York Public Library
+      year: June 2026-Present
+      description:
+        - Metadata liaison to the Manuscripts and Archives, NYPL Archives, Map, and United States History, Local History and Genealogy Divisions at the NYPL Humanities and Social Sciences Research Library
+        - Engage in metadata enhancement, creation, and correction for new and legacy digitization
+        - Carry out ongoing remediation projects to improve accuracy & completeness in line with reparative metadata principles and best practices
+    
     - title: Adjunct Digital Scholarship Specialist
       institution: NYU Libraries
-      year: November 2024 - Present
+      year: November 2024 - June 2026
       description:
         - Provide reference services and teach original workshops for computational research methods, project design, and tools including publishing platforms, integrated development environments, and linked databases
         - Support open access publication of digital scholarship on NYU’s Manifold instance, including authoring LibGuides, teaching workshops, consulting on project design, teaching for course use, delivering targeted trainings, and liaising with the New York City Manifold community
@@ -42,7 +50,7 @@
 
     - title: Scholarly Communications Fellow
       institution: CUNY Office of Library Services
-      year: October 2025 - Present
+      year: October 2025 - May 2026
       description:
         - Support Open Access publishing of scholarship in CUNY’s institutional repository, including depositing digital objects, upgrading metadata, and conducting outreach with scholarly community
         - Evaluate and advocate for different institutional repository services for adoption by CUNY
